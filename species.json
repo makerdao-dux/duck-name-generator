@@ -1,0 +1,534 @@
+[
+    {
+        "name": "African Black Duck",
+        "scientificName": "(Anas sparsa)"
+    },
+    {
+        "name": "African Pygmy-Goose",
+        "scientificName": "(Nettapus auritus)"
+    },
+    {
+        "name": "American Black Duck",
+        "scientificName": "(Anas rubripes)"
+    },
+    {
+        "name": "American White-Winged Scoter",
+        "scientificName": "(Melanitta deglandi)"
+    },
+    {
+        "name": "American Wigeon",
+        "scientificName": "(Anas americana)"
+    },
+    {
+        "name": "Andean Teal",
+        "scientificName": "(Anas andium)"
+    },
+    {
+        "name": "Asian White-Winged Scoter",
+        "scientificName": "(Melanitta stejnegeri)"
+    },
+    {
+        "name": "*Auckland Islands Teal",
+        "scientificName": "(Anas aucklandica)"
+    },
+    {
+        "name": "Australasian Shoveler",
+        "scientificName": "(Anas rhynchotis)"
+    },
+    {
+        "name": "Australian Shelduck",
+        "scientificName": "(Tadorna tadornoides)"
+    },
+    {
+        "name": "Australian Wood Duck",
+        "scientificName": "(Chenonetta jubata)"
+    },
+    {
+        "name": "**Baer's Pochard",
+        "scientificName": "(Aythya baeri)"
+    },
+    {
+        "name": "Baikal Teal",
+        "scientificName": "(Anas formosa)"
+    },
+    {
+        "name": "Barrow's Goldeneye",
+        "scientificName": "(Bucephala islandica)"
+    },
+    {
+        "name": "*Black Scoter",
+        "scientificName": "(Melanitta americana)"
+    },
+    {
+        "name": "Black-Bellied Whistling-duck",
+        "scientificName": "(Dendrocygna autumnalis)"
+    },
+    {
+        "name": "Black-Headed Duck",
+        "scientificName": "(Heteronetta atricapilla)"
+    },
+    {
+        "name": "**Blue Duck",
+        "scientificName": "(Hymenolaimus malacorhynchos)"
+    },
+    {
+        "name": "*Blue-Billed Duck",
+        "scientificName": "(Oxyura australis)"
+    },
+    {
+        "name": "*Blue-Winged Goose",
+        "scientificName": "(Cyanochen cyanoptera)"
+    },
+    {
+        "name": "Blue-Winged Teal",
+        "scientificName": "(Anas discors)"
+    },
+    {
+        "name": "**Brazilian Merganser",
+        "scientificName": "(Mergus octosetaceus)"
+    },
+    {
+        "name": "Brazilian Teal",
+        "scientificName": "(Amazonetta brasiliensis)"
+    },
+    {
+        "name": "**Brown Teal",
+        "scientificName": "(Anas chlorotis)"
+    },
+    {
+        "name": "Bufflehead",
+        "scientificName": "(Bucephala albeola)"
+    },
+    {
+        "name": "**Campbell Islands Teal",
+        "scientificName": "(Anas nesiotis)"
+    },
+    {
+        "name": "Canvasback",
+        "scientificName": "(Aythya valisineria)"
+    },
+    {
+        "name": "Cape Shoveler",
+        "scientificName": "(Anas smithii)"
+    },
+    {
+        "name": "Cape Teal",
+        "scientificName": "(Anas capensis)"
+    },
+    {
+        "name": "Chestnut Teal",
+        "scientificName": "(Anas castanea)"
+    },
+    {
+        "name": "Chiloe Wigeon",
+        "scientificName": "(Anas sibilatrix)"
+    },
+    {
+        "name": "Cinnamon Teal",
+        "scientificName": "(Anas cyanoptera)"
+    },
+    {
+        "name": "Comb Duck",
+        "scientificName": "(Sarkidiornis melanotos)"
+    },
+    {
+        "name": "Common Eider",
+        "scientificName": "(Somateria mollissima)"
+    },
+    {
+        "name": "Common Goldeneye",
+        "scientificName": "(Bucephala clangula)"
+    },
+    {
+        "name": "Common Merganser",
+        "scientificName": "(Mergus merganser)"
+    },
+    {
+        "name": "Common Pochard",
+        "scientificName": "(Aythya ferina)"
+    },
+    {
+        "name": "Common Scoter",
+        "scientificName": "(Melanitta nigra)"
+    },
+    {
+        "name": "Common Shelduck",
+        "scientificName": "(Tadorna tadorna)"
+    },
+    {
+        "name": "Common Teal",
+        "scientificName": "(Anas crecca)"
+    },
+    {
+        "name": "Cotton Pygmy-Goose",
+        "scientificName": "(Nettapus coromandelianus)"
+    },
+    {
+        "name": "Crested Duck",
+        "scientificName": "(Lophonetta specularioides)"
+    },
+    {
+        "name": "**Crested Shelduck",
+        "scientificName": "(Tadorna cristata)"
+    },
+    {
+        "name": "Eastern Spot-Billed Duck",
+        "scientificName": "(Anas zonorhyncha)"
+    },
+    {
+        "name": "*Eaton's Pintail",
+        "scientificName": "(Anas eatoni)"
+    },
+    {
+        "name": "Egyptian Goose",
+        "scientificName": "(Alopochen aegyptiaca)"
+    },
+    {
+        "name": "Eurasian Wigeon",
+        "scientificName": "(Anas penelope)"
+    },
+    {
+        "name": "*Falcated Duck",
+        "scientificName": "(Anas falcata)"
+    },
+    {
+        "name": "Falkland Steamerduck",
+        "scientificName": "(Tachyeres brachypterus)"
+    },
+    {
+        "name": "*Ferruginous Duck",
+        "scientificName": "(Aythya nyroca)"
+    },
+    {
+        "name": "Flightless Steamerduck",
+        "scientificName": "(Tachyeres pteneres)"
+    },
+    {
+        "name": "Flying Steamerduck",
+        "scientificName": "(Tachyeres patachonicus)"
+    },
+    {
+        "name": "Freckled Duck",
+        "scientificName": "(Stictonetta naevosa)"
+    },
+    {
+        "name": "Fulvous Whistling-Duck",
+        "scientificName": "(Dendrocygna bicolor)"
+    },
+    {
+        "name": "Gadwall",
+        "scientificName": "(Anas strepera)"
+    },
+    {
+        "name": "Garganey",
+        "scientificName": "(Anas querquedula)"
+    },
+    {
+        "name": "Greater Scaup",
+        "scientificName": "(Aythya marila)"
+    },
+    {
+        "name": "Green Pygmy-Goose",
+        "scientificName": "(Nettapus pulchellus)"
+    },
+    {
+        "name": "Grey Teal",
+        "scientificName": "(Anas gracilis)"
+    },
+    {
+        "name": "Hardhead",
+        "scientificName": "(Aythya australis)"
+    },
+    {
+        "name": "Harlequin Duck",
+        "scientificName": "(Histrionicus histrionicus)"
+    },
+    {
+        "name": "Hartlaub's Duck",
+        "scientificName": "(Pteronetta hartlaubii)"
+    },
+    {
+        "name": "**Hawaiian Duck",
+        "scientificName": "(Anas wyvilliana)"
+    },
+    {
+        "name": "Hooded Merganser",
+        "scientificName": "(Lophodytes cucullatus)"
+    },
+    {
+        "name": "Hottentot Teal",
+        "scientificName": "(Anas hottentota)"
+    },
+    {
+        "name": "Kelp Goose",
+        "scientificName": "(Chloephaga hybrida)"
+    },
+    {
+        "name": "King Eider",
+        "scientificName": "(Somateria spectabilis)"
+    },
+    {
+        "name": "Lake Duck",
+        "scientificName": "(Oxyura vittata)"
+    },
+    {
+        "name": "**Laysan Duck",
+        "scientificName": "(Anas laysanensis)"
+    },
+    {
+        "name": "Lesser Scaup",
+        "scientificName": "(Aythya affinis)"
+    },
+    {
+        "name": "Lesser Whistling-Duck",
+        "scientificName": "(Dendrocygna javanica)"
+    },
+    {
+        "name": "*Long-Tailed Duck",
+        "scientificName": "(Clangula hyemalis)"
+    },
+    {
+        "name": "*Maccoa Duck",
+        "scientificName": "(Oxyura maccoa)"
+    },
+    {
+        "name": "**Madagascar Pochard",
+        "scientificName": "(Aythya innotata)"
+    },
+    {
+        "name": "**Madagascar Teal",
+        "scientificName": "(Anas bernieri)"
+    },
+    {
+        "name": "Mallard",
+        "scientificName": "(Anas platyrhynchos)"
+    },
+    {
+        "name": "Mandarin Duck",
+        "scientificName": "(Aix galericulata)"
+    },
+    {
+        "name": "*Marbled Teal",
+        "scientificName": "(Marmaronetta angustirostris)"
+    },
+    {
+        "name": "Masked Duck",
+        "scientificName": "(Nomonyx dominicus)"
+    },
+    {
+        "name": "**Meller's Duck",
+        "scientificName": "(Anas melleri)"
+    },
+    {
+        "name": "Mottled Duck",
+        "scientificName": "(Anas fulvigula)"
+    },
+    {
+        "name": "Muscovy Duck",
+        "scientificName": "(Cairina moschata)"
+    },
+    {
+        "name": "Musk Duck",
+        "scientificName": "(Biziura lobata)"
+    },
+    {
+        "name": "New Zealand Scaup",
+        "scientificName": "(Aythya novaeseelandiae)"
+    },
+    {
+        "name": "Northern Pintail",
+        "scientificName": "(Anas acuta)"
+    },
+    {
+        "name": "Northern Shoveler",
+        "scientificName": "(Anas clypeata)"
+    },
+    {
+        "name": "*Orinoco Goose",
+        "scientificName": "(Neochen jubata)"
+    },
+    {
+        "name": "Pacific Black Duck",
+        "scientificName": "(Anas superciliosa)"
+    },
+    {
+        "name": "Paradise Shelduck",
+        "scientificName": "(Tadorna variegata)"
+    },
+    {
+        "name": "*Philippine Duck",
+        "scientificName": "(Anas luzonica)"
+    },
+    {
+        "name": "Pink-Eared Duck",
+        "scientificName": "(Malacorhynchus membranaceus)"
+    },
+    {
+        "name": "**Pink-Headed Duck",
+        "scientificName": "(Rhodonessa caryophyllacea)"
+    },
+    {
+        "name": "Plumed Whistling-Duck",
+        "scientificName": "(Dendrocygna eytoni)"
+    },
+    {
+        "name": "Puna Teal",
+        "scientificName": "(Anas puna)"
+    },
+    {
+        "name": "Radjah Shelduck",
+        "scientificName": "(Tadorna radjah)"
+    },
+    {
+        "name": "Red Shoveler",
+        "scientificName": "(Anas platalea)"
+    },
+    {
+        "name": "Red-Billed Duck",
+        "scientificName": "(Anas erythrorhyncha)"
+    },
+    {
+        "name": "Red-Breasted Merganser",
+        "scientificName": "(Mergus serrator)"
+    },
+    {
+        "name": "Red-Crested Pochard",
+        "scientificName": "(Netta rufina)"
+    },
+    {
+        "name": "Redhead",
+        "scientificName": "(Aythya americana)"
+    },
+    {
+        "name": "Ring-Necked Duck",
+        "scientificName": "(Aythya collaris)"
+    },
+    {
+        "name": "Ringed Teal",
+        "scientificName": "(Callonetta leucophrys)"
+    },
+    {
+        "name": "Rosy-Billed Pochard",
+        "scientificName": "(Netta peposaca)"
+    },
+    {
+        "name": "Ruddy Duck",
+        "scientificName": "(Oxyura jamaicensis)"
+    },
+    {
+        "name": "Ruddy Shelduck",
+        "scientificName": "(Tadorna ferruginea)"
+    },
+    {
+        "name": "*Salvadori's Teal",
+        "scientificName": "(Salvadorina waigiuensis)"
+    },
+    {
+        "name": "**Scaly-Sided Merganser",
+        "scientificName": "(Mergus squamatus)"
+    },
+    {
+        "name": "Silver Teal",
+        "scientificName": "(Anas versicolor)"
+    },
+    {
+        "name": "Smew",
+        "scientificName": "(Mergellus albellus)"
+    },
+    {
+        "name": "South African Shelduck",
+        "scientificName": "(Tadorna cana)"
+    },
+    {
+        "name": "Southern Pochard",
+        "scientificName": "(Netta erythrophthalma)"
+    },
+    {
+        "name": "*Spectacled Duck",
+        "scientificName": "(Speculanas specularis)"
+    },
+    {
+        "name": "Spectacled Eider",
+        "scientificName": "(Somateria fischeri)"
+    },
+    {
+        "name": "Spotted Whistling-Duck",
+        "scientificName": "(Dendrocygna guttata)"
+    },
+    {
+        "name": "*Steller's Eider",
+        "scientificName": "(Polysticta stelleri)"
+    },
+    {
+        "name": "Sunda Teal",
+        "scientificName": "(Anas gibberifrons)"
+    },
+    {
+        "name": "Surf Scoter",
+        "scientificName": "(Melanitta perspicillata)"
+    },
+    {
+        "name": "Torrent Duck",
+        "scientificName": "(Merganetta armata)"
+    },
+    {
+        "name": "Tufted Duck",
+        "scientificName": "(Aythya fuligula)"
+    },
+    {
+        "name": "**Velvet Scoter",
+        "scientificName": "(Melanitta fusca)"
+    },
+    {
+        "name": "Wandering Whistling-Duck",
+        "scientificName": "(Dendrocygna arcuata)"
+    },
+    {
+        "name": "*West Indian Whistling-Duck",
+        "scientificName": "(Dendrocygna arborea)"
+    },
+    {
+        "name": "Western Spot-Billed Duck",
+        "scientificName": "(Anas poecilorhyncha)"
+    },
+    {
+        "name": "White-Backed Duck",
+        "scientificName": "(Thalassornis leuconotus)"
+    },
+    {
+        "name": "White-Cheeked Pintail",
+        "scientificName": "(Anas bahamensis)"
+    },
+    {
+        "name": "White-Faced Whistling-duck",
+        "scientificName": "(Dendrocygna viduata)"
+    },
+    {
+        "name": "**White-Headed Duck",
+        "scientificName": "(Oxyura leucocephala)"
+    },
+    {
+        "name": "*White-Headed Steamerduck",
+        "scientificName": "(Tachyeres leucocephalus)"
+    },
+    {
+        "name": "**White-Winged Duck",
+        "scientificName": "(Cairina scutulata)"
+    },
+    {
+        "name": "Wood Duck",
+        "scientificName": "(Aix sponsa)"
+    },
+    {
+        "name": "Yellow-Billed Duck",
+        "scientificName": "(Anas undulata)"
+    },
+    {
+        "name": "Yellow-Billed Pintail",
+        "scientificName": "(Anas georgica)"
+    },
+    {
+        "name": "Yellow-Billed Teal",
+        "scientificName": "(Anas flavirostris)"
+    }
+]
